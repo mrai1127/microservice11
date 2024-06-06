@@ -1,0 +1,10 @@
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\config\WebClientConfig.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\controller\OrderController.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\dto\InventoryResponse.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\dto\OrderLinesItemsDto.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\dto\OrderRequest.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\model\Order.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\model\OrderLineItems.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\OrderServiceApplication.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\repository\OrderRepository.java
+C:\Users\mausa\ij\microservices-new\order-service\src\main\java\com\rai\order_service\service\OrderService.java

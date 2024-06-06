@@ -1,0 +1,11 @@
+com\rai\order_service\OrderServiceApplication.class
+com\rai\order_service\dto\OrderLinesItemsDto.class
+com\rai\order_service\controller\OrderController.class
+com\rai\order_service\service\OrderService.class
+com\rai\order_service\dto\InventoryResponse.class
+com\rai\order_service\model\OrderLineItems.class
+com\rai\order_service\config\WebClientConfig.class
+com\rai\order_service\dto\InventoryResponse$InventoryResponseBuilder.class
+com\rai\order_service\model\Order.class
+com\rai\order_service\dto\OrderRequest.class
+com\rai\order_service\repository\OrderRepository.class

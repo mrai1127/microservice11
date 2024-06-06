@@ -1,0 +1,7 @@
+com\rai\Inventory_service\dto\InventoryResponse.class
+com\rai\Inventory_service\model\Inventory.class
+com\rai\Inventory_service\controller\InventoryController.class
+com\rai\Inventory_service\InventoryServiceApplication.class
+com\rai\Inventory_service\service\InventoryService.class
+com\rai\Inventory_service\repository\InventoryRepository.class
+com\rai\Inventory_service\dto\InventoryResponse$InventoryResponseBuilder.class
